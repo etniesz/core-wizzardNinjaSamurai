@@ -1,0 +1,14 @@
+C:\Users\Jaime\OneDrive\Documentos\Curso\Curso\Semana 6\11 Octubre\Wizzard-Ninja-Samurai\bin\Debug\net7.0\Wizzard-Ninja-Samurai.exe
+C:\Users\Jaime\OneDrive\Documentos\Curso\Curso\Semana 6\11 Octubre\Wizzard-Ninja-Samurai\bin\Debug\net7.0\Wizzard-Ninja-Samurai.deps.json
+C:\Users\Jaime\OneDrive\Documentos\Curso\Curso\Semana 6\11 Octubre\Wizzard-Ninja-Samurai\bin\Debug\net7.0\Wizzard-Ninja-Samurai.runtimeconfig.json
+C:\Users\Jaime\OneDrive\Documentos\Curso\Curso\Semana 6\11 Octubre\Wizzard-Ninja-Samurai\bin\Debug\net7.0\Wizzard-Ninja-Samurai.dll
+C:\Users\Jaime\OneDrive\Documentos\Curso\Curso\Semana 6\11 Octubre\Wizzard-Ninja-Samurai\bin\Debug\net7.0\Wizzard-Ninja-Samurai.pdb
+C:\Users\Jaime\OneDrive\Documentos\Curso\Curso\Semana 6\11 Octubre\Wizzard-Ninja-Samurai\obj\Debug\net7.0\Wizzard-Ninja-Samurai.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jaime\OneDrive\Documentos\Curso\Curso\Semana 6\11 Octubre\Wizzard-Ninja-Samurai\obj\Debug\net7.0\Wizzard-Ninja-Samurai.AssemblyInfoInputs.cache
+C:\Users\Jaime\OneDrive\Documentos\Curso\Curso\Semana 6\11 Octubre\Wizzard-Ninja-Samurai\obj\Debug\net7.0\Wizzard-Ninja-Samurai.AssemblyInfo.cs
+C:\Users\Jaime\OneDrive\Documentos\Curso\Curso\Semana 6\11 Octubre\Wizzard-Ninja-Samurai\obj\Debug\net7.0\Wizzard-Ninja-Samurai.csproj.CoreCompileInputs.cache
+C:\Users\Jaime\OneDrive\Documentos\Curso\Curso\Semana 6\11 Octubre\Wizzard-Ninja-Samurai\obj\Debug\net7.0\Wizzard-Ninja-Samurai.dll
+C:\Users\Jaime\OneDrive\Documentos\Curso\Curso\Semana 6\11 Octubre\Wizzard-Ninja-Samurai\obj\Debug\net7.0\refint\Wizzard-Ninja-Samurai.dll
+C:\Users\Jaime\OneDrive\Documentos\Curso\Curso\Semana 6\11 Octubre\Wizzard-Ninja-Samurai\obj\Debug\net7.0\Wizzard-Ninja-Samurai.pdb
+C:\Users\Jaime\OneDrive\Documentos\Curso\Curso\Semana 6\11 Octubre\Wizzard-Ninja-Samurai\obj\Debug\net7.0\Wizzard-Ninja-Samurai.genruntimeconfig.cache
+C:\Users\Jaime\OneDrive\Documentos\Curso\Curso\Semana 6\11 Octubre\Wizzard-Ninja-Samurai\obj\Debug\net7.0\ref\Wizzard-Ninja-Samurai.dll
